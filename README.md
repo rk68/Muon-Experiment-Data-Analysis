@@ -4,6 +4,10 @@ Experimental Physics Lab Project
 
 Title: Measuring the Muon Lifetime
 
+Language: Python
+Libraries: MatPlotLib, SciKit, Pandas, NumPy
+Skills: Data Analysis, Curve-fitting, Statistics
+
 Steps taken: 
 
 1. Processing, cleaning data
